@@ -1,0 +1,1981 @@
+fileFormatVersion: 2
+guid: 84c6bdd7c6db09c40ad63a444e435d29
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spacecoyote-neilsprite_sheet_0
+    21300002: spacecoyote-neilsprite_sheet_1
+    21300004: spacecoyote-neilsprite_sheet_2
+    21300006: spacecoyote-neilsprite_sheet_3
+    21300008: spacecoyote-neilsprite_sheet_4
+    21300010: spacecoyote-neilsprite_sheet_5
+    21300012: spacecoyote-neilsprite_sheet_6
+    21300014: spacecoyote-neilsprite_sheet_7
+    21300016: spacecoyote-neilsprite_sheet_8
+    21300018: spacecoyote-neilsprite_sheet_9
+    21300020: spacecoyote-neilsprite_sheet_10
+    21300022: spacecoyote-neilsprite_sheet_11
+    21300024: spacecoyote-neilsprite_sheet_12
+    21300026: spacecoyote-neilsprite_sheet_13
+    21300028: spacecoyote-neilsprite_sheet_14
+    21300030: spacecoyote-neilsprite_sheet_15
+    21300032: spacecoyote-neilsprite_sheet_16
+    21300034: spacecoyote-neilsprite_sheet_17
+    21300036: spacecoyote-neilsprite_sheet_18
+    21300038: spacecoyote-neilsprite_sheet_19
+    21300040: spacecoyote-neilsprite_sheet_20
+    21300042: spacecoyote-neilsprite_sheet_21
+    21300044: spacecoyote-neilsprite_sheet_22
+    21300046: spacecoyote-neilsprite_sheet_23
+    21300048: spacecoyote-neilsprite_sheet_24
+    21300050: spacecoyote-neilsprite_sheet_25
+    21300052: spacecoyote-neilsprite_sheet_26
+    21300054: spacecoyote-neilsprite_sheet_27
+    21300056: spacecoyote-neilsprite_sheet_28
+    21300058: spacecoyote-neilsprite_sheet_29
+    21300060: spacecoyote-neilsprite_sheet_30
+    21300062: spacecoyote-neilsprite_sheet_31
+    21300064: spacecoyote-neilsprite_sheet_32
+    21300066: spacecoyote-neilsprite_sheet_33
+    21300068: spacecoyote-neilsprite_sheet_34
+    21300070: spacecoyote-neilsprite_sheet_35
+    21300072: spacecoyote-neilsprite_sheet_36
+    21300074: spacecoyote-neilsprite_sheet_37
+    21300076: spacecoyote-neilsprite_sheet_38
+    21300078: spacecoyote-neilsprite_sheet_39
+    21300080: spacecoyote-neilsprite_sheet_40
+    21300082: spacecoyote-neilsprite_sheet_41
+    21300084: spacecoyote-neilsprite_sheet_42
+    21300086: spacecoyote-neilsprite_sheet_43
+    21300088: spacecoyote-neilsprite_sheet_44
+    21300090: spacecoyote-neilsprite_sheet_45
+    21300092: spacecoyote-neilsprite_sheet_46
+    21300094: spacecoyote-neilsprite_sheet_47
+    21300096: spacecoyote-neilsprite_sheet_48
+    21300098: spacecoyote-neilsprite_sheet_49
+    21300100: spacecoyote-neilsprite_sheet_50
+    21300102: spacecoyote-neilsprite_sheet_51
+    21300104: spacecoyote-neilsprite_sheet_52
+    21300106: spacecoyote-neilsprite_sheet_53
+    21300108: spacecoyote-neilsprite_sheet_54
+    21300110: spacecoyote-neilsprite_sheet_55
+    21300112: spacecoyote-neilsprite_sheet_56
+    21300114: spacecoyote-neilsprite_sheet_57
+    21300116: spacecoyote-neilsprite_sheet_58
+    21300118: spacecoyote-neilsprite_sheet_59
+    21300120: spacecoyote-neilsprite_sheet_60
+    21300122: spacecoyote-neilsprite_sheet_61
+    21300124: spacecoyote-neilsprite_sheet_62
+    21300126: spacecoyote-neilsprite_sheet_63
+    21300128: spacecoyote-neilsprite_sheet_64
+    21300130: spacecoyote-neilsprite_sheet_65
+    21300132: spacecoyote-neilsprite_sheet_66
+    21300134: spacecoyote-neilsprite_sheet_67
+    21300136: spacecoyote-neilsprite_sheet_68
+    21300138: spacecoyote-neilsprite_sheet_69
+    21300140: spacecoyote-neilsprite_sheet_70
+    21300142: spacecoyote-neilsprite_sheet_71
+    21300144: spacecoyote-neilsprite_sheet_72
+    21300146: spacecoyote-neilsprite_sheet_73
+    21300148: spacecoyote-neilsprite_sheet_74
+    21300150: spacecoyote-neilsprite_sheet_75
+    21300152: spacecoyote-neilsprite_sheet_76
+    21300154: spacecoyote-neilsprite_sheet_77
+    21300156: spacecoyote-neilsprite_sheet_78
+    21300158: spacecoyote-neilsprite_sheet_79
+    21300160: spacecoyote-neilsprite_sheet_80
+    21300162: spacecoyote-neilsprite_sheet_81
+    21300164: spacecoyote-neilsprite_sheet_82
+    21300166: spacecoyote-neilsprite_sheet_83
+    21300168: spacecoyote-neilsprite_sheet_84
+    21300170: spacecoyote-neilsprite_sheet_85
+    21300172: spacecoyote-neilsprite_sheet_86
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2038
+        width: 126
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f699a2c9ddde670449f586276d6e657b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2038
+        width: 127
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee56d5aa780e14f832c10fe1844eb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2038
+        width: 127
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d817e39017ecf32478876f4c2d79981f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2038
+        width: 126
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78168f31047386b4987f2482471860be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2038
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4aa8c850cbc34d906c01b58f1058a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2038
+        width: 126
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9b8626a404bb34488d07c4ad70a3d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2038
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0f10d1ff3b5b143b3a6d5304c8a37d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 2038
+        width: 126
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a30c4ed5eb4224fa8ecc5e66896116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 2038
+        width: 126
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc0fba0ef3c54b4b94f3c237df37f4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1831
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e217110f2ad05469dbc1daf0a8bba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1833
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf1bd164d1c7824d90d90518d6d9907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1833
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e9f14d5d5de944b3221caaed82417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1833
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e07f213426bd1b46ae46732aafe10ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1833
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2102412d0dff544a6d64963808eb2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1833
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3e1bbde9883641b7be5741b8a5ec1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1833
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b44da88c93cdd246b7f35a790f57fa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1833
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8e420e34534b446b75134962c8e5eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1833
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7715eae3f84777b439cc57ab7428a9be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1833
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620aaf5dae4fd5647bcbf799ed1c0067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1644
+        width: 145
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd1315d5721a94188fbb0be14749e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1644
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab43f9403d4c98840b0ee460f5e03de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1644
+        width: 185
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba07b99a9238742bbe8b333163f3e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1644
+        width: 145
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c80cdb60e59a184bb985d82786659ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1654
+        width: 294
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16a0a45e5603b442b844f8225ac22da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1654
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f3528d933e064d8fbad401d367fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1448
+        width: 145
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574cb7027bffd9b4dafa1c60e1ca7490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1448
+        width: 145
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2996f6949960ee4badcf16feff540ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1448
+        width: 145
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287aa2116f8dd84aaf0b7e615451028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1448
+        width: 144
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b576426eb6e2943829565551da147c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1448
+        width: 145
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328495960322f6048a8e10c3750b60ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1448
+        width: 144
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de92245db5edc7e4abdb1a5a42d636d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1448
+        width: 144
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade77c45bf744ae49b623e51d539a41f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1448
+        width: 145
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4271a4f425c7d478f1ace1f9caaf19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1267
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b34e84900544e54da7bb21a08fb58f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1267
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e638965c8de47b40b5804eb15aeb386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1267
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bbee695f20fd844a1ee49d7ab60721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1267
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a651c0ee87d77874599610f00e29bf01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1267
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d4220fa596a341b73d4e1ae6e77a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1267
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4882fa5694733a44382df6acba305352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1267
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f5abad81d640e41b689e9f43a9d82b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1267
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bccec0a53e9c74480f843558b75970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1267
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb36fcfe297c5b04b91c20ca5a3292af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1098
+        width: 127
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4854fcfb4ba9a47b625262701d7970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1098
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10ce8414c64e54ca94ce7de6419d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1098
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7774e67ac484b408427a630c7c6a28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1098
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e8eb5a40059bc469817634204cebcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1098
+        width: 126
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96038c201a90ba34384dd37e96edfa5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1098
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd2b88957e66ba45a0a0e6d2320b0bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1098
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b01e86a20c11246ba21a8b4acf8c60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1098
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23c35799e4ae2c42a876f9919ed077b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1098
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadb544bad488b246a0d361c5b37cd6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1098
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b311baed4b472545b57ced66d9d268a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1098
+        width: 125
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992a98811a4e23c45bd8938ac84c7860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 923
+        width: 126
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a24768ab99a643ad728582d79b874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 923
+        width: 163
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f6b4ed20cfc9d488b1b4872e1b1562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 923
+        width: 165
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9693629f91bf6df4d9545f8646afb15f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 923
+        width: 165
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c23bda34ba763f48acd5828ac6d0ebc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 923
+        width: 166
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f331577a89d0848813392d70c53185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 684
+        width: 132
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987a665238094ec448397c0afde0f2a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 684
+        width: 132
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121a918084b97644ebb5a763b2258c83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 684
+        width: 132
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce42728b1f5074340aa108179afe325e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 684
+        width: 132
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad5fc5c90c6e5f42a39df13874403fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 684
+        width: 132
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19799ec1cf8057842b82cb956a867b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 684
+        width: 131
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5688fdb1a4e554d86b2f4426271f03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 684
+        width: 131
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cf4b6c335176b46829fb99db5d20fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 684
+        width: 132
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd424b75db5684bbb1f2b670a437a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 684
+        width: 131
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a4a9ef34b3d54085790b9e93d28f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 469
+        width: 132
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c6b932d49256c4e9dfd59d6e0e0955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 469
+        width: 131
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c33c97974b324397b3562571d5464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 469
+        width: 131
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97fde6b808663a45ab3c6658549e3af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 469
+        width: 132
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9376ca71a2b9ae4996d7ff77da921d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 469
+        width: 131
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88745f5d01621924e934398e8d0ae1fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 469
+        width: 131
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6aaa0f383e9c45a48ac17f9ce4d26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 469
+        width: 131
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151b59399b05fab40ae5c75d5655cf4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 469
+        width: 131
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0914f0e85ae0a4e816f0bd883c7510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 469
+        width: 131
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178780fe382c155499f36f27ac2c755a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 253
+        width: 156
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa2475f4fe906d4abdd938cf26af583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 253
+        width: 156
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcfceee68f5fc748951ff5d90321de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 253
+        width: 155
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0d608b488e25d42866558cadeaa622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 253
+        width: 155
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eb021d594b898419b3f32c17d193d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 253
+        width: 155
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e9f380795df4a47926514a186b9313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 253
+        width: 156
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef831ec5a3b0914dbc47e512007ca4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 253
+        width: 155
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec8eb4c2980dc46b499cc851f7fe66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 253
+        width: 155
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadb6ff2b46710a40b2f05d070584093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 254
+        width: 156
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ed8487a08cbec46800424f74bbba65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33
+        width: 131
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633c05f36d09c3c4490694b9c847e4b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacecoyote-neilsprite_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 33
+        width: 130
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78432137ca95c064ab0474cb3856988c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: db7b6f688fdbf0842bc4f03f2c7a1266
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

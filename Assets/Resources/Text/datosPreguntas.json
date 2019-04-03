@@ -1,0 +1,220 @@
+{
+    "Items": [
+        {
+            "Enunciado": "En Microsoft Dynamics Nav se paga entre un 14% y un 16% por sus:",
+            "Letra": "A",
+            "IdPregunta": 0,
+            "Respuesta": "Actualizaciones#Actualizacion",
+            "Estado": 0,
+            "Presentador": "Comienza por la A"
+        },
+        {
+            "Enunciado": "Al mejorar el funcionamiento de la empresan aumentarán sus:",
+            "Letra": "B",
+            "IdPregunta": 1,
+            "Respuesta": "Beneficios#Beneficio",
+            "Estado": 0,
+            "Presentador": "Comienza por la B"
+        },
+        {
+            "Enunciado": "Forman la arquitectura de un sistema ERP-CRM",
+            "Letra": "C",
+            "IdPregunta": 2,
+            "Respuesta": "Capas#Capa",
+            "Estado": 0,
+            "Presentador": "Comienza por la C"
+        },
+        {
+            "Enunciado": "Los ERP requieren de formación para los empleados debido a su:",
+            "Letra": "D",
+            "IdPregunta": 3,
+            "Respuesta": "Dificultad",
+            "Estado": 0,
+            "Presentador": "Comienza por la D"
+        },
+        {
+            "Enunciado": "¿Qué significa la E de las siglas ERP?",
+            "Letra": "E",
+            "IdPregunta": 4,
+            "Respuesta": "Enterprise",
+            "Estado": 0,
+            "Presentador": "Comienza por la E"
+        },
+        {
+            "Enunciado": "Tipo de usuario de Navision sin restricciones:",
+            "Letra": "F",
+            "IdPregunta": 5,
+            "Respuesta": "Full",
+            "Estado": 0,
+            "Presentador": "Comienza por la F"
+        },
+        {
+            "Enunciado": "Los ERP la incluyen en caso de poseer fallos:",
+            "Letra": "G",
+            "IdPregunta": 6,
+            "Respuesta": "Garantia#Garantias",
+            "Estado": 0,
+            "Presentador": "Comienza por la G"
+        },
+        {
+            "Enunciado": "Siglas de uno de los principales módulos dentro de un ERP:",
+            "Letra": "H",
+            "IdPregunta": 7,
+            "Respuesta": "RRHH#Recursos humanos#Recursos",
+            "Estado": 0,
+            "Presentador": "Contiene la H"
+        },
+        {
+            "Enunciado": "¿Qué significa la I de las siglas IaaS?",
+            "Letra": "I",
+            "IdPregunta": 8,
+            "Respuesta": "Infrastructure#Infraestructura",
+            "Estado": 0,
+            "Presentador": "Comienza por la I"
+        },
+        {
+            "Enunciado": "En los ERP OpenSource, la independencia con el proveedor supone una:",
+            "Letra": "J",
+            "IdPregunta": 9,
+            "Respuesta": "Ventaja#Ventajas",
+            "Estado": 0,
+            "Presentador": "Contiene la J"
+        },
+        {
+            "Enunciado": "Un CRM contiene las áreas de ventas, publicidad, Internet, canales y:",
+            "Letra": "K",
+            "IdPregunta": 10,
+            "Respuesta": "Marketing",
+            "Estado": 0,
+            "Presentador": "Contiene la K"
+        },
+        {
+            "Enunciado": "Una de las partes más costosas en la implantación de un ERP:",
+            "Letra": "L",
+            "IdPregunta": 11,
+            "Respuesta": "Licencias#Licencia",
+            "Estado": 0,
+            "Presentador": "Comienza por la L"
+        },
+        {
+            "Enunciado": "Es una de las características que más se valoran al elegir un ERP:",
+            "Letra": "M",
+            "IdPregunta": 12,
+            "Respuesta": "Multiplataforma#Multiplataformas#Multiplataformismo",
+            "Estado": 0,
+            "Presentador": "Comienza por la M"
+        },
+        {
+            "Enunciado": "Si los servidores existen de forma remota se encuentran en la:",
+            "Letra": "N",
+            "IdPregunta": 13,
+            "Respuesta": "Nube",
+            "Estado": 0,
+            "Presentador": "Comienza por la N"
+        },
+        {
+            "Enunciado": "País de origen del ERP OpenBravo:",
+            "Letra": "Ñ",
+            "IdPregunta": 14,
+            "Respuesta": "España",
+            "Estado": 0,
+            "Presentador": "Contiene la Ñ"
+        },
+        {
+            "Enunciado": "Software de código abierto:",
+            "Letra": "O",
+            "IdPregunta": 15,
+            "Respuesta": "Opensource",
+            "Estado": 0,
+            "Presentador": "Comienza por la O"
+        },
+        {
+            "Enunciado": "Las licencias de Microsoft Dynamics Nav son:",
+            "Letra": "P",
+            "IdPregunta": 16,
+            "Respuesta": "Perpetuas#Perpetua",
+            "Estado": 0,
+            "Presentador": "Comienza por la P"
+        },
+        {
+            "Enunciado": "Base de datos usada en Dynamics NAV:",
+            "Letra": "Q",
+            "IdPregunta": 17,
+            "Respuesta": "SQL#MySQL",
+            "Estado": 0,
+            "Presentador": "Contiene la Q"
+        },
+        {
+            "Enunciado": "Dentro de un ERP determinan las funciones y limitaciones de un usuario: ",
+            "Letra": "R",
+            "IdPregunta": 18,
+            "Respuesta": "Roles#Rol",
+            "Estado": 0,
+            "Presentador": "Comienza por la R"
+        },
+        {
+            "Enunciado": "¿Qué significa la S de las siglas SAAS?",
+            "Letra": "S",
+            "IdPregunta": 19,
+            "Respuesta": "Software",
+            "Estado": 0,
+            "Presentador": "Comienza por la S"
+        },
+        {
+            "Enunciado": "Es uno de los problemas principales de un ERP y son fijos o periódicos:",
+            "Letra": "T",
+            "IdPregunta": 20,
+            "Respuesta": "Coste#Costes",
+            "Estado": 0,
+            "Presentador": "Contiene la T"
+        },
+        {
+            "Enunciado": "Base de datos de ejemplo de la instalación DEMO de Dynamics NAV:",
+            "Letra": "U",
+            "IdPregunta": 21,
+            "Respuesta": "CRONUS",
+            "Estado": 0,
+            "Presentador": "Contiene la U"
+        },
+        {
+            "Enunciado": "Módulo principal dentro de los ERP:",
+            "Letra": "V",
+            "IdPregunta": 22,
+            "Respuesta": "Ventas#Venta",
+            "Estado": 0,
+            "Presentador": "Comienza por la V"
+        },
+        {
+            "Enunciado": "Tipo de cliente accesible mediante cualquier navegador:",
+            "Letra": "W",
+            "IdPregunta": 23,
+            "Respuesta": "Web#Webs",
+            "Estado": 0,
+            "Presentador": "Comienza por la W"
+        },
+        {
+            "Enunciado": "ERP de Microsoft Dynamics alternativo a NAV:",
+            "Letra": "X",
+            "IdPregunta": 24,
+            "Respuesta": "AX#Dynamics AX",
+            "Estado": 0,
+            "Presentador": "Contiene la X"
+        },
+        {
+            "Enunciado": "Departamento de Microsoft responsable de los ERP y CRM:",
+            "Letra": "Y",
+            "IdPregunta": 25,
+            "Respuesta": "Dynamics#Microsoft Dynamics",
+            "Estado": 0,
+            "Presentador": "Contiene la Y"
+        },
+        {
+            "Enunciado": "Uno de los módulos imprescindibles en un ERP:",
+            "Letra": "Z",
+            "IdPregunta": 26,
+            "Respuesta": "Finanzas#Finanza",
+            "Estado": 0,
+            "Presentador": "Contiene la Z"
+        }
+    ]
+}
